@@ -5,7 +5,9 @@ This game is based off a mini game from Rampage through time.
 All sounds are credited to CSGO.
 
 How to play the game:
+
 Goals:
+
 1. Shoot objects to obtain points.
 
 2. You start off with six bullets. 
