@@ -1,7 +1,5 @@
-# GameProject
-
+CS332L Final Project - readme.txt
 This game is based off a mini game from Rampage through time.
-
 All sounds are credited to CSGO.
 
 How to play the game:
@@ -20,4 +18,3 @@ Goals:
 5. Cows and horse shoes are worth 3 points each.
 	Dynamites and TNTs are worth 5 points each.
 	First player to 50 points wins.
-
